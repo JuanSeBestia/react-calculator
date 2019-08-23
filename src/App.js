@@ -50,7 +50,7 @@ class App extends Component {
             />
           )}
           {whatShowValue == "god" && (
-            <div class="calculator-wrapper">
+            <div class="god">
               <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Touched_by_His_Noodly_Appendage_HD.jpg" />
               <p> Image extracted from wikipedia site</p>
               <div className="row">
@@ -59,7 +59,7 @@ class App extends Component {
             </div>
           )}
           {whatShowValue == "devil" && (
-            <div class="calculator-wrapper">
+            <div class="devil">
               <img src="https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4kJzuwmYmgtLso3qp8x0lDUv-Il7reD20Fy0sxMAdK3w" />
               <p> Image extracted from myanimelist site</p>
               <div className="row">
