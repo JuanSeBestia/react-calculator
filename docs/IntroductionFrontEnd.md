@@ -34,7 +34,7 @@ Con la aceptación del paradigma funcional en S4N, está es una librería que se
 
 ## Loadash
 
-Con la aceptación del paradigma funcional en S4N, está es una librería que se ve en casi todos los proyectos, la cual ayuda a satisfacer gran parte de los problemas lógicos comunes pensados en el paradigma funcional
+Está es una librería que se ve en casi todos los proyectos, la cual ayuda a satisfacer gran parte de los problemas lógicos de tratamiento de estructuras de datos y manipulación de las mismas
 
 ## React
 
